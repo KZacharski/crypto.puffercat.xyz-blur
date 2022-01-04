@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # blur
 
 ## Build Setup
@@ -66,3 +67,7 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+=======
+# crypto.puffercat.xyz-blur
+Code for https://crypto.puffercat.xyz/blur
+>>>>>>> 647f8d144e3aba7d85e54427bdcee4cea477f5d8
